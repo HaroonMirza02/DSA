@@ -1,0 +1,3 @@
+[submodule "src/mazegenerator"]
+	path = src/mazegenerator
+	url = https://github.com/HaroonMirza02/MazeGenerator-DSA.git
