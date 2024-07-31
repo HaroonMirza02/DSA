@@ -32,6 +32,17 @@ This project incorporates over 10 data structure concepts, including but not lim
 - **Dijkstra’s Algorithm**: For finding the shortest path in the maze.
 - **Recursive Backtracking**: For maze generation.
 
+## Screenshots
+
+### Main Menu
+![MainMenu](./Screenshots/menu.PNG)
+
+### Gameplay
+![Gameplay](./Screenshots/gameplay.PNG)
+
+### Results
+![Results](./Screenshots/result.PNG)
+
 ## Getting Started
 
 ### Prerequisites
